@@ -1,6 +1,18 @@
 @import "settings";
 @import "foundation";
 
+p.cutline {
+	text-align: right;
+	font-style: italic;
+	line-height: 1.8em;
+}
+
+h4.title {
+	color:#348EBF;
+	font-size: 0.9em;
+	font-style: italic; 
+}
+
 // Or selectively include components
 // @import
 //   "foundation/components/accordion",
